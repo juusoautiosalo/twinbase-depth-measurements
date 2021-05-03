@@ -1,0 +1,18 @@
+{
+    "dt-id": "https://dtid.org/2021-05-03_11-49-45_18c59dd3",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-depth-measurements/2021-05-03_11-49-45_18c59dd3",
+    "name": "Mindful Masterful Rat Of Honeydew",
+    "description": "Tempora aliquam tempora consectetur etincidunt velit.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-05-03_11-49-45_f524fcf0",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-05-03_11-49-45_51a0b12b",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-depth-measurements",
+    "edit": "https://github.com/juusoautiosalo/twinbase-depth-measurements/edit/main/docs/2021-05-03_11-49-45_18c59dd3/index.yaml"
+}

@@ -1,0 +1,14 @@
+{
+    "dt-id": "https://dtid.org/2021-05-03_11-49-45_37f941d0",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-depth-measurements/2021-05-03_11-49-45_37f941d0",
+    "name": "Gifted Energetic Turaco Of Assurance",
+    "description": "Dolorem quaerat labore est modi.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-05-03_11-49-45_51a0b12b",
+            "relationType": "parent"
+        }
+    ],
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-depth-measurements",
+    "edit": "https://github.com/juusoautiosalo/twinbase-depth-measurements/edit/main/docs/2021-05-03_11-49-45_37f941d0/index.yaml"
+}

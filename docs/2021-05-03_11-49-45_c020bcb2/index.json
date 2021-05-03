@@ -1,0 +1,18 @@
+{
+    "dt-id": "https://dtid.org/2021-05-03_11-49-45_c020bcb2",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-depth-measurements/2021-05-03_11-49-45_c020bcb2",
+    "name": "Festive Jasmine Caterpillar Of Promise",
+    "description": "Porro adipisci ut dolorem aliquam ipsum neque est.",
+    "relations": [
+        {
+            "dt-id": "https://dtid.org/2021-05-03_11-49-45_9f7b4655",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "https://dtid.org/2021-05-03_11-49-45_f524fcf0",
+            "relationType": "child"
+        }
+    ],
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-depth-measurements",
+    "edit": "https://github.com/juusoautiosalo/twinbase-depth-measurements/edit/main/docs/2021-05-03_11-49-45_c020bcb2/index.yaml"
+}
