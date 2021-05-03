@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-05-03_11-49-45_9f7b4655
-hosting-iri: autoassign
+hosting-iri: https://juusoautiosalo.github.io/twinbase-depth-measurements/2021-05-03_11-49-45_9f7b4655
 name: The Origin at 2021-05-03 11-49-45
 description: Numquam aliquam eius ipsum.
 relations:
@@ -7,3 +7,5 @@ relations:
   relationType: parent
 - dt-id: https://dtid.org/2021-05-03_11-49-45_c020bcb2
   relationType: child
+baseurl: https://juusoautiosalo.github.io/twinbase-depth-measurements
+edit: https://github.com/juusoautiosalo/twinbase-depth-measurements/edit/main/docs/2021-05-03_11-49-45_9f7b4655/index.yaml

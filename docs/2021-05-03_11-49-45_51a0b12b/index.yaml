@@ -1,5 +1,5 @@
 dt-id: https://dtid.org/2021-05-03_11-49-45_51a0b12b
-hosting-iri: autoassign
+hosting-iri: https://juusoautiosalo.github.io/twinbase-depth-measurements/2021-05-03_11-49-45_51a0b12b
 name: Quiet Belligerent Termite Of Hail
 description: Numquam velit est modi neque quisquam.
 relations:
@@ -7,3 +7,5 @@ relations:
   relationType: parent
 - dt-id: https://dtid.org/2021-05-03_11-49-45_37f941d0
   relationType: child
+baseurl: https://juusoautiosalo.github.io/twinbase-depth-measurements
+edit: https://github.com/juusoautiosalo/twinbase-depth-measurements/edit/main/docs/2021-05-03_11-49-45_51a0b12b/index.yaml
