@@ -1,0 +1,9 @@
+dt-id: https://dtid.org/2021-05-03_11-49-45_51a0b12b
+hosting-iri: autoassign
+name: Quiet Belligerent Termite Of Hail
+description: Numquam velit est modi neque quisquam.
+relations:
+- dt-id: https://dtid.org/2021-05-03_11-49-45_18c59dd3
+  relationType: parent
+- dt-id: https://dtid.org/2021-05-03_11-49-45_37f941d0
+  relationType: child

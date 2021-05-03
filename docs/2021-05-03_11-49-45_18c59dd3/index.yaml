@@ -1,0 +1,9 @@
+dt-id: https://dtid.org/2021-05-03_11-49-45_18c59dd3
+hosting-iri: autoassign
+name: Mindful Masterful Rat Of Honeydew
+description: Tempora aliquam tempora consectetur etincidunt velit.
+relations:
+- dt-id: https://dtid.org/2021-05-03_11-49-45_f524fcf0
+  relationType: parent
+- dt-id: https://dtid.org/2021-05-03_11-49-45_51a0b12b
+  relationType: child
